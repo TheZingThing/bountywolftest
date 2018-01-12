@@ -1,0 +1,1 @@
+move_towards_point(Player.x,Player.y,3)
