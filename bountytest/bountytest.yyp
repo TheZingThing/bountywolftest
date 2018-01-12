@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "29ddf14d-9474-4df5-a9b4-6fea0e7462ab",
+            "Value": {
+                "id": "cf5c169b-a2ee-4f4e-a7c2-8a99741169f6",
+                "resourcePath": "sprites\\spr_coin\\spr_coin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "355455a0-b0ea-4ff5-aa7d-fe33cd9608ff",
             "Value": {
                 "id": "5358c976-0184-4edf-a34b-a02c29de6594",
@@ -116,6 +124,14 @@
                 "id": "1821dfcd-3f81-41df-b48d-1f9c6bec64af",
                 "resourcePath": "views\\47f9e68f-4050-4fd6-930b-b0eae5683099.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4920c37e-d6c0-4f82-8268-4186210cb6f8",
+            "Value": {
+                "id": "63842e90-a382-432f-bbae-2e26dcc12540",
+                "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -284,6 +300,14 @@
                 "id": "374c4bf3-ba97-4f63-b05a-f66b50732760",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f5ad7a39-5ee8-4577-92ca-6c5e859076bc",
+            "Value": {
+                "id": "b31977a6-4469-4e09-9a46-f22476aa81f1",
+                "resourcePath": "objects\\obj_coin\\obj_coin.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

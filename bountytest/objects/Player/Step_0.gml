@@ -10,3 +10,8 @@ if (keyboard_check(vk_down)){
 if (keyboard_check(vk_up)){
 	y-=5;
 }
+
+if hp <= 0 
+{
+	room_restart();
+}
